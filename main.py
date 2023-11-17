@@ -1,3 +1,4 @@
-from funcs import add
+import funcs
 
-add(2, 3)
+funcs.add(2, 3)
+funcs.diff(5, 1)
